@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = genevievewarthon@gmail.com
+	name = Genevieve Warthon Landmann
